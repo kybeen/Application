@@ -1,5 +1,2 @@
 # Application
-react-native를 이용하여 front-end를 개발합니다.
-
-
-왜 안되징
+리액트 네이티브를 이용하여 프론트엔드 개발
