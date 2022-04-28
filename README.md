@@ -1,2 +1,4 @@
 # Application
-react-nativeë¥¼ ì´ìš©í•˜ì—¬ front-endë¥¼ ê°œë°œí•©ë‹ˆë‹¤.
+react-nativeë¥? ?´?š©?•˜?—¬ front-endë¥? ê°œë°œ?•©?‹ˆ?‹¤.
+
+git-hub so hard
